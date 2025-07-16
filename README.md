@@ -16,7 +16,7 @@ A responsive and user-friendly **QR Code Generator** built with **HTML**, **Tail
 
 ## Live Demo
 
-> _Coming soon_ or deploy via GitHub Pages / Netlify
+https://talrejaarvin.github.io/QR-Code-Generator-App/
 
 ---
 
