@@ -7,6 +7,10 @@ A responsive and user-friendly **QR Code Generator** built with **HTML**, **Tail
 ## Features
 
 - Generate QR codes from any URL
+- Choose from 10+ hand-picked color palettes
+- Smart default palette with user override
+- Stylish spinner during QR generation
+- Error box for invalid or empty inputs
 - Styled with Tailwind CSS
 - Live loading spinner while generating
 - Download QR Code as PNG
@@ -21,6 +25,7 @@ https://talrejaarvin.github.io/QR-Code-Generator-App/
 ---
 
 ## 📁 Project Structure
+<img width="604" height="443" alt="image" src="https://github.com/user-attachments/assets/c9c16eed-1e0f-4c9d-a567-69433474f3ff" />
 
 
-![alt text](image.png)
+
